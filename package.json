@@ -1,0 +1,24 @@
+{
+  "name": "eigenspace",
+  "version": "1.0.0",
+  "description": "A twitch bot built with xtb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amccarthy1/eigenspace.git"
+  },
+  "keywords": [
+    "twitch",
+    "bot",
+    "xtb"
+  ],
+  "author": "Adam McCarthy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amccarthy1/eigenspace/issues"
+  },
+  "homepage": "https://github.com/amccarthy1/eigenspace#readme"
+}
